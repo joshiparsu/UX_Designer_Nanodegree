@@ -1,0 +1,18 @@
+2) Annotated Iteration for Accessibility
+There are 2 improvements and they're presented in 2 different frames in figma. Use following link to access both improvements:
+https://www.figma.com/file/J3PNOc0oxuw0su6LwDVuJl/C3_MidTerm_Project?node-id=40%3A691
+
+3) Design Performance
+
+Attached DesignPerformance_And_DesignTesting.pdf with submission that has:
+
+- A list of Test Insights
+- Increase Task success rate KPI details
+- Component selected for iterate on
+- Details of hypothesis from teh data points to apply to design
+- Link to figma project that has alternate solution developed based on data points along with solution details (https://www.figma.com/file/J3PNOc0oxuw0su6LwDVuJl/C3_MidTerm_Project?node-id=41%3A975)
+
+https://www.figma.com/proto/J3PNOc0oxuw0su6LwDVuJl/C3_MidTerm_Project?node-id=13%3A316&scaling=scale-down
+
+4) Preparing for Handoff
+Handoff designs with Zeplin : https://zpl.io/bzgg41z
